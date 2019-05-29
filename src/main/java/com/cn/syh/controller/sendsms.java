@@ -67,6 +67,9 @@ public class sendsms {
 
         return "successs";
     }
+    /*
+    * 啊啊啊啊
+    * */
       public static void main(String[]args){
           String verifyCode = String.valueOf(new Random().nextInt(899999) + 100000);
           try {
